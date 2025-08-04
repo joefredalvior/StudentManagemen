@@ -1,0 +1,16 @@
+{
+    "name": "alvior/student-management",
+    "description": "basic student",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Alvior\\StudentManagement\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Joefred"
+        }
+    ],
+    "require": {}
+}
